@@ -13,11 +13,9 @@ Our workflow follows the folowing guideline:
 ## File descriptions
 `Data Processing and EPA.ipynb`: pre-process the data, clean and remove outliers.
 
-`Data_pipelin.ipynb`: The data processing pipeline to remove outlying stations and map coordinates.
+`Data_pipelin.ipynb`: The data processing pipeline to remove outlying stations and map coordinates. We also perform transition matrix calculation.
 
 `Map Binning.ipynb`: Where we perform map binning. 
-
-`Transition Matrix.ipynb`: Ipynb where we perform transition matrix calculation.
 
 `Dynamics.ipynb`: IPynb to model the disease propagation dynamic.
   
